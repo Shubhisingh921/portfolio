@@ -37,4 +37,4 @@ Welcome to my portfolio website! This site showcases my academic background, wor
 To view the website, simply click on the [portfolio link](https://shubhisingh921.github.io/portfolio/).
 
 ## Contact
-For any queries or collaborations, feel free to reach out via email: [shubhis921@gmail.com](mailto:shubhis921@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shubhi-singh-921).
+For any queries or collaborations, feel free to reach out via email: [shubhis921@gmail.com](mailto:shubhis921@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shubhisingh921/).
